@@ -3,7 +3,7 @@ import tkinter as tk
 from tkinter import messagebox, simpledialog
 
 # Function to parse the player list from a TSV file
-
+# A comment from GitHub
 
 def parse_player_list(file_path):
     with open(file_path, "r", encoding="utf-8") as file:
